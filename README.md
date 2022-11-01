@@ -1,5 +1,7 @@
 # manage_site
 
+Oct 31, 2022 - Day 5 Worked on creating a gradient that blocks out everything behind the mobile nav when the mobile menu is openned.
+
 Oct 29, 2022 - Day 4
 Worked on the navigation layout and some javascript for hiding and revealing mobile navigation. It's very cool to learn how to set attributes based on whether aria-expanded is set to true or false.
 
