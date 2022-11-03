@@ -1,5 +1,8 @@
 # manage_site
 
+Nov 2, 2022 - Day 7
+Worked on the call to action section of the design and the vertical spacing between paragraphs.  
+
 Nov 1, 2022 - Day 6
 Worked on styling the spacing for the main nav and was exposed to CSS clamp which I need to explore more. It was very cool how it allowed the spacing to adjust without allowing the nav elements to crash into the surrounding divs. I also worked on the vertical spacing of the first 2 sections. Here I learned about > * + * which also need to do some further study in.
 
