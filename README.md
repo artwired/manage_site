@@ -21,4 +21,4 @@ Finished off the HTML and started working on the CSS. Learned about margin-inlin
 Oct 26, 2022 - Day 1
 Website called Manage offered on Frontend Mentor. Following along with Kevin Powell
 
-Starting 100 Days Of Code challenge
+Starting 100 Days Of Code challenge / code at least 1 hour a day
