@@ -1,5 +1,8 @@
 # manage_site
 
+Nov 4, 2022 - Day 9
+Continued working on the footer styles today. I learned that if I remove a fill attribute from an svg file and then I can target the element I want to change the fill for in my css which gives me control over hover states, etc.. I also created different styles in the footer for mobile and desktop changing the size of the social icons.
+
 Nov 3, 2022 - Day 8
 Worked on the footer styles and the heading in the call to action. There are 2 different sizes for the desktop and mobile versions of the CTA heading so I had to figure out how to get the sizes to display correctly. Still need to figure this out. I also learned about how to use when() in css to write the styles for focus and hover states without having to re-write the same declarations twice. Very cool!! I needed to define a new color in my css variables to get the right color for the footer background and split the footer nav in to two columns. Finally, I learned how to use svgsprit.es to convert my social icons into sprites and insert them into the website with HTML.
 
