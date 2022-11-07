@@ -1,7 +1,12 @@
 # manage_site
 
+
+
+Nov 7, 2022 - Day 11
+Worked on the spacing for the footer content and adding the stylized numbered list to the "What's different about Manage" section. I learned how to use CCS content and add a string combined with a counter to create a custom styles list bullet. I also learned how to apply CSS grid to arrange the dayout of each bulleted item.
+
 Nov 5, 2022 - Day 10
-Worked on arranging the content in the footer aaccording to the design. Learned how to use grid-template-area to manipulate the positioning of HTML elements with CSS. I also used flex-direction to arrange the different positions of content within a div for the mobile and desktop designs.
+Worked on arranging the content in the footer aaccording to the design. Learned how to use grid-template-area to manipulate the positioning of HTML elements with CSS. I also used flex-direction to arrange the different positions of content within a specific grid-template area for the mobile and desktop designs.
 
 Nov 4, 2022 - Day 9
 Continued working on the footer styles today. I learned that if I remove a fill attribute from an svg file and then I can target the element I want to change the fill for in my css which gives me control over hover states, etc.. I also created different styles in the footer for mobile and desktop changing the size of the social icons.
