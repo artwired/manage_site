@@ -1,5 +1,7 @@
 # manage_site
 
+Nov 12, 2022 - Day 14
+Started Working on the slider today and wrapped up the styling for the 3 points in the "What's Different About Manage" section. We are using the A11Y slider and on Kevins tutorial it's showing default previous and next buttons. I have no idea why they are not showing up on my slider. We also started working on the layout for each individual slide.
 
 Nov 11, 2022 - Day 13
 Worked on sorting out the background color for the numbered list of points in the "What's Different About Manage" section. Much more complicated than I expected.I worked with sorting out the layout using grid quite a bit.
