@@ -9,6 +9,8 @@
   <script defer src="main.js"></script>
   <link rel="stylesheet" href="style.css">
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="stylesheet" href="https://unpkg.com/a11y-slider@latest/dist/a11y-slider.css" />
+  <script src="https://unpkg.com/a11y-slider@latest/dist/a11y-slider.js" defer></script>
   
   <title>Frontend Mentor | Manage landing page</title>
 
@@ -58,7 +60,7 @@
     <section class="padding-block-900">
       <div class="container">
         <div class="even-columns">
-          <div class="flow">
+          <div class="flow text-center-sm-only margin-bottom-700" style="--flow-spacer: 1.5rem">
             <h2 class="fs-secondary-heading fw-bold">What’s different about Manage?</h2>
             <p>Manage provides all the functionality your team needs, without the complexity. Our software is tailor-made for modern digital product teams.</p>
           </div>
@@ -87,9 +89,24 @@
         </div>
       </div>
     </section>
-    <section class="carousel padding-block-700">
+    <section class="carousel padding-block-700 text-center">
       <h2 class="fs-secondary-heading fw-bold">What they’ve said</h2>
       <!-- Will insert carousel here -->
+      <ul class="slider">
+        <li>
+          <img src="/img/avatar-ali.png" alt="">
+          <h3 class="fw-bold">
+            Ali Bravo
+          </h3>
+          <p data-width="wide">“We have been able to cancel so many other subscriptions since using 
+            Manage. There is no more cross-channel confusion and everyone is much 
+            more focused.”</p>
+        </li>
+        <li>2</li>
+        <li>3</li>
+        <li>4</li>
+      </ul>
+
       <button class="button">Get Started</button>
     </section>
     <section class="cta | bg-accent-400 text-accent-100 padding-block-900">
