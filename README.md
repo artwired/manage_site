@@ -1,6 +1,8 @@
 # manage_site
 
 
+Nov 11, 2022 - Day 13
+Worked on sorting out the background color for the numbered list of points in the "What's Different About Manage" section. Much more complicated than I expected.I worked with sorting out the layout using grid quite a bit.
 
 Nov 7, 2022 - Day 11
 Worked on the spacing for the footer content and adding the stylized numbered list to the "What's different about Manage" section. I learned how to use CCS content and add a string combined with a counter to create a custom styles list bullet. I also learned how to apply CSS grid to arrange the dayout of each bulleted item.
