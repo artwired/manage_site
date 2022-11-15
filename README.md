@@ -1,7 +1,7 @@
 # manage_site
 
 Nov 14, 2022 - Day 15
-Working on the styles for the slider today. I wrapped the list items for each slide in a div called slide-content to simplify some positioning issues. The main thing I was struggling with today was trying to get A11Y slider to work consistently using the browser links. One second it would work and the nexy second it wouldn't. As of now I still don'y have a next and previous button and my layout is scrolling on the right side. frustrating!! Will continue to try to figure this out tomorrow.
+Working on the styles for the slider today. I wrapped the list items for each slide in a div called slide-content to simplify some positioning issues. The main thing I was struggling with today was trying to get A11Y slider to work consistently using the browser links. One second it would work and the nexy second it wouldn't. As of now I still don't have a next and previous button and my layout is scrolling on the right side. Frustrating!! Will continue to try to figure this out tomorrow.
 
 Nov 12, 2022 - Day 14
 Started Working on the slider today and wrapped up the styling for the 3 points in the "What's Different About Manage" section. We are using the A11Y slider and on Kevins tutorial it's showing default previous and next buttons. I have no idea why they are not showing up on my slider. We also started working on the layout for each individual slide.
