@@ -1,5 +1,8 @@
 # manage_site
 
+Nov 15, 2022 - Day 16
+Working on the styles for the slider again today. After arranging my scripts in the html I managed to get the sliders behavior to work consistently. I went on to adjusting the styles for the slides at different screen sizes. I also styles the bullets for the mobile slider customizing A11y sliders stock styles to match the projects design.
+
 Nov 14, 2022 - Day 15
 Working on the styles for the slider today. I wrapped the list items for each slide in a div called slide-content to simplify some positioning issues. The main thing I was struggling with today was trying to get A11Y slider to work consistently using the browser links. One second it would work and the nexy second it wouldn't. As of now I still don't have a next and previous button and my layout is scrolling on the right side. Frustrating!! Will continue to try to figure this out tomorrow.
 
