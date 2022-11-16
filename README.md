@@ -1,5 +1,8 @@
 # manage_site
 
+Nov 16, 2022 - Day 17
+Completed the styling and interactivity for the slider with a few issues I will revisit closer to the end of the project (ie. no interactive elements to scroll testimonials on the larger screen). I went on to inserting the pil shaped graphic in the header and positioning it correctly for responsive layouts.
+
 Nov 15, 2022 - Day 16
 Working on the styles for the slider again today. After arranging my scripts in the html I managed to get the sliders behavior to work consistently. I went on to adjusting the styles for the slides at different screen sizes. I added some javascript from the A11y docs to help with th resonsive behaviors and I also styled the bullets for the mobile slider customizing A11y sliders stock styles to match the projects design.
 
