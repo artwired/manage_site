@@ -1,5 +1,8 @@
 # manage_site
 
+Nov 17, 2022 - Day 18
+I worked on the positioning of the mid scroll pill shaped graphic today. More complicated than expected.
+
 Nov 16, 2022 - Day 17
 Completed the styling and interactivity for the slider with a few issues I will revisit closer to the end of the project (ie. no interactive elements to scroll testimonials on the larger screen). I went on to inserting the pil shaped graphic in the header and positioning it correctly for responsive layouts.
 
