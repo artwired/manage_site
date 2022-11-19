@@ -1,5 +1,8 @@
 # manage_site
 
+Nov 19, 2022 - Day 20
+Today I completed the layout tweaks for the footer and completed the project. Thanks to Kevin Powell for an awesome tutorial!!
+
 Nov 18, 2022 - Day 19
 Today I re-organized the code for the site footer and simplified the css.
 
