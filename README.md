@@ -1,5 +1,8 @@
 # manage_site
 
+Nov 18, 2022 - Day 19
+Today I re-organized the code for the site footer and simplified the css.
+
 Nov 17, 2022 - Day 18
 I worked on the positioning of the mid scroll pill shaped graphic today. More complicated than expected.
 
